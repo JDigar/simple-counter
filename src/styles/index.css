@@ -13,7 +13,6 @@
 
 .fullBox {
     display: flex;
-    
     font-size: 100px;
     line-height: 20px;
     background-color: black;
@@ -29,7 +28,7 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    width: 100px;
+    width: 120px;
     height: 150px;
     margin: 20px;
     border-radius: 10px;
